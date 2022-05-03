@@ -1,0 +1,81 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    background-color: #433c9b;
+
+}
+
+#emoji-board{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+
+#allEmojis{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffff;
+    border-radius: 10px;
+    font-size: 40px;
+}
+
+#last-emojis{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffff;
+    border-radius: 10px;
+    font-size: 40px;
+    margin-top: 10px;
+}
+
+#fruit-emojis{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffff;
+    border-radius: 10px;
+    font-size: 40px;
+    margin-top: 10px;
+}
+
+#food-emojis{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffff;
+    border-radius: 10px;
+    font-size: 40px;
+    margin-top: 10px;
+}
+
+#weird{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffff;
+    border-radius: 10px;
+    font-size: 40px;
+    margin-top: 10px;
+}
+
+h3{
+    color: #ffff;
+}
